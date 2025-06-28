@@ -5,7 +5,7 @@
 [Решение](https://github.com/ksenyanix/testtask_Windy/blob/main/windy_testtask.ipynb)
 
 2. Мы хотим подобрать оптимальные цены для стран, в которых продаётся наше приложение, и хотим провести тест, чтобы выбрать их.
-[Pdf](https://github.com/ksenyanix/testtask_Windy/blob/main/windy_testtask.ipynb)
+[Pdf](https://github.com/ksenyanix/testtask_Windy/blob/main/windy_testtask.ipynb](https://github.com/ksenyanix/testtask_Windy/blob/main/тестовое2.pdf)
 
 
 
